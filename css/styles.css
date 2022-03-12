@@ -49,4 +49,10 @@ h1 {
 .contact {
     height: 500px;
     background-image: url("../assets/backgrounds/c_image.jpg");
+    text-align: center;
+}
+
+.ptf-project{
+    height: 150px;
+    width: 150px;
 }
