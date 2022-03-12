@@ -56,3 +56,13 @@ h1 {
     height: 150px;
     width: 150px;
 }
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+li {
+    display: inline;
+
+}
