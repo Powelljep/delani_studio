@@ -101,3 +101,7 @@ li {
 footer {
     text-align: center;
 }
+/*------------------------------------JQUERY STYLING--------------------*/
+.design, .dev, .product {
+    display: none;
+}
