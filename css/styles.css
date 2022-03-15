@@ -38,10 +38,13 @@
 }
 
 
-/*------------------------------------------------*/
+/*-------------------PORTFOLI-----------------------------*/
 .icons {
     display: flex;
     justify-content: space-between;
+}
+.description {
+    text-align: justify;
 }
 h1 {
     text-align: center;
