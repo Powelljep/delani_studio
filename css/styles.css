@@ -102,6 +102,6 @@ footer {
     text-align: center;
 }
 /*------------------------------------JQUERY STYLING--------------------*/
-.design, .dev, .product {
+.design-desc, .dev, .product {
     display: none;
 }
